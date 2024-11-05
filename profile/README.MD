@@ -34,7 +34,7 @@ Atualmente, estamos trabalhando em diversas automações de processos, incluindo
 ## 🔗 Links Importantes
 
 **Para mais informações visite o Blogger da Equipe Gates.**
-- [Blogger da Equipe Gates](#) (https://equipegates-zlacademy.blogspot.com/)
+- [Blogger da Equipe Gates](#)(https://equipegates-zlacademy.blogspot.com/)
 
 ## 📂 Estrutura do Repositório
 
