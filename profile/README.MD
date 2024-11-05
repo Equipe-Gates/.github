@@ -18,10 +18,10 @@ O **DX LG Academy** é um projeto inovador com o objetivo de levar a automação
 
 A **Equipe Gates** é composta pelos seguintes colaboradores:
 
-- **Antônio Carlos Andrade do Nascimento Junior**: Líder de Equipe e Desenvolvedor Principal.
-- **Francisco Narcísio Pinheiro Torquato**: Desenvolvedor de Bots e Especialista em Automação.
-- **Luan Vasconcelos Pinheiro**: Desenvolvedor Backend e Integrador de Sistemas.
-- **Samah Ely de Queiroz Sampaio**: Analista de Processos e Desenvolvedora de Soluções de Automação.
+- **Antônio Carlos Andrade do Nascimento Junior**
+- **Francisco Narcísio Pinheiro Torquato**
+- **Luan Vasconcelos Pinheiro**
+- **Samah Ely de Queiroz Sampaio**
 
 ## ⚙️ O que Estamos Fazendo
 
@@ -33,9 +33,8 @@ Atualmente, estamos trabalhando em diversas automações de processos, incluindo
 
 ## 🔗 Links Importantes
 
-- [Repositório Principal do Projeto](#) (Link para o repositório principal do DX LG Academy)
-- [BotCity Framework](https://botcity.dev) (Site do BotCity)
-- [Documentação do Projeto](#) (Link para a documentação completa do DX LG Academy)
+**Para mais informações visite o Blogger da Equipe Gates.**
+- [Blogger da Equipe Gates](#) (https://equipegates-zlacademy.blogspot.com/)
 
 ## 📂 Estrutura do Repositório
 
@@ -58,15 +57,10 @@ Se você gostaria de contribuir para o projeto, siga as etapas abaixo:
 
 Se você tiver dúvidas ou sugestões, entre em contato com a equipe através dos seguintes canais:
 
-- **Antônio Carlos Andrade do Nascimento Junior**: [Email](mailto:antonio@exemplo.com)
-- **Francisco Narcísio Pinheiro Torquato**: [Email](mailto:francisco@exemplo.com)
-- **Luan Vasconcelos Pinheiro**: [Email](mailto:luan@exemplo.com)
-- **Samah Ely de Queiroz Sampaio**: [Email](mailto:samah@exemplo.com)
+- **Antônio Carlos Andrade do Nascimento Junior**: [Email](mailto:antonio.andrade@ifam.edu.br)
+- **Francisco Narcísio Pinheiro Torquato**: [Email](mailto:francisco.narcisio@ifam.edu.br)
+- **Luan Vasconcelos Pinheiro**: [Email](mailto:luan.pinheiro@ifam.edu.br)
+- **Samah Ely de Queiroz Sampaio**: [Email](mailto:samah.sampaio@ifam.edu.br )
 
-## 📝 Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
----
 
 Obrigado por visitar o repositório da **Equipe Gates**! Juntos, estamos levando a automação a novos patamares!
