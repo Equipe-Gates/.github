@@ -1,3 +1,5 @@
+![Texto alternativo](https://blogger.googleusercontent.com/img/a/AVvXsEjxNQMaigYhkv9Aoa6syOn4p2sI-JpND_Ok078GuItbrBpcXlVHTcuZcureSQdgFORKO0ddkcf4tGLSOUP3RwxkFjDARg_hqsOq9XcOv3K3fUo2Lc1x33LPfRoHCe5N2e8CpaJtt_uh8t6Wtt0jBfWqbjlbwL8bLH6ISkwisNHwI9dV0_7UJr6txdSe9OFq=s340)
+
 # Equipe Gates
 
 Bem-vindo ao repositório da **Equipe Gates**!
@@ -34,7 +36,7 @@ Atualmente, estamos trabalhando em diversas automações de processos, incluindo
 ## 🔗 Links Importantes
 
 **Para mais informações visite o Blogger da Equipe Gates.**
-- [Blogger da Equipe Gates](https://equipegates-zlacademy.blogspot.com/)
+- [Blogger Equipe Gates](https://equipegates-zlacademy.blogspot.com/)
 
 ## 📂 Estrutura do Repositório
 
