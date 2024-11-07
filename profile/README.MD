@@ -38,31 +38,14 @@ Atualmente, estamos trabalhando em diversas automações de processos, incluindo
 **Para mais informações visite o Blogger da Equipe Gates.**
 - [Blogger Equipe Gates](https://equipegates-zlacademy.blogspot.com/)
 
-## 📂 Estrutura do Repositório
-
-- **/bots**: Contém os scripts e bots de automação desenvolvidos.
-- **/docs**: Documentação técnica e guias de uso.
-- **/src**: Código-fonte das automações e integrações.
-- **/tests**: Testes unitários e de integração.
-
-## 🚧 Contribuindo
-
-Se você gostaria de contribuir para o projeto, siga as etapas abaixo:
-
-1. Fork o repositório.
-2. Crie uma branch com sua feature (`git checkout -b feature/nome-da-feature`).
-3. Faça o commit das suas alterações (`git commit -am 'Adiciona nova feature'`).
-4. Envie para o repositório remoto (`git push origin feature/nome-da-feature`).
-5. Crie uma Pull Request.
-
 ## 📣 Contato
 
 Se você tiver dúvidas ou sugestões, entre em contato com a equipe através dos seguintes canais:
 
-- **Antônio Carlos Andrade do Nascimento Junior**: [Email](mailto:antonio.andrade@ifam.edu.br)
-- **Francisco Narcísio Pinheiro Torquato**: [Email](mailto:francisco.narcisio@ifam.edu.br)
-- **Luan Vasconcelos Pinheiro**: [Email](mailto:luan.pinheiro@ifam.edu.br)
-- **Samah Ely de Queiroz Sampaio**: [Email](mailto:samah.sampaio@ifam.edu.br )
+- **Antônio Carlos Andrade do Nascimento Junior**: [Email](mailto:antonio.andrade@ifam.edu.br) [Likedin](mailto:linkedin.com/in/antôniojjr)
+- **Francisco Narcísio Pinheiro Torquato**: [Email](mailto:francisco.narcisio@ifam.edu.br) [Likedin](mailto:linkedin.com/in/narcisiotorquato)
+- **Luan Vasconcelos Pinheiro**: [Email](mailto:luan.pinheiro@ifam.edu.br) [Likedin](mailto:linkedin.com/in/luan-pinheiro-a82110213)
+- **Samah Ely de Queiroz Sampaio**: [Email](mailto:samah.sampaio@ifam.edu.br ) [Likedin](mailto:linkedin.com/in/samah-ely-sampaio-708762260)
 
 
 Obrigado por visitar o repositório da **Equipe Gates**! Juntos, estamos levando a automação a novos patamares!
