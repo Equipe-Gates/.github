@@ -43,8 +43,8 @@ Atualmente, estamos trabalhando em diversas automações de processos, incluindo
 Se você tiver dúvidas ou sugestões, entre em contato com a equipe através dos seguintes canais:
 
 - **Antônio Carlos Andrade do Nascimento Junior**: <a href="https://www.linkedin.com/in/ant%C3%B4niojjr/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- **Francisco Narcísio Pinheiro Torquato**:  [Likedin](linkedin.com/in/narcisiotorquato)
-- **Luan Vasconcelos Pinheiro**:  [Likedin](linkedin.com/in/luan-pinheiro-a82110213)
-- **Samah Ely de Queiroz Sampaio**: [Email](samah.sampaio@ifam.edu.br )
+- **Francisco Narcísio Pinheiro Torquato**:  [Likedin](https://www.linkedin.com/in/narcisiotorquato/)
+- **Luan Vasconcelos Pinheiro**:  [Likedin](https://www.linkedin.com/in/luan-pinheiro-a82110213/)
+- **Samah Ely de Queiroz Sampaio**: [Likedin](https://www.linkedin.com/in/samah-ely-sampaio-708762260/)
 
 Obrigado por visitar o repositório da **Equipe Gates**! Juntos, estamos levando a automação a novos patamares!
